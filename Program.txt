@@ -8,4 +8,4 @@ Class Program{
 		return 0;
 	}
 }
-	print("See you later!");
+	Hard hard = new Hard();
