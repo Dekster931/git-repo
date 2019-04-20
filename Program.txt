@@ -1,4 +1,5 @@
 print("Hello World!");
 Class Program{
+	print("Hello!");
 }
-print("See you later!");
+	print("See you later!");

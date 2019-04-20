@@ -1,2 +1,7 @@
 print("Goodbye!");
 print("Finish!");
+Class Features{
+	public void Yes{
+	return true;
+	}
+}
