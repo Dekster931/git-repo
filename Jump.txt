@@ -1,0 +1,4 @@
+class jump{
+	public jump(int i){
+	}
+}
