@@ -4,5 +4,8 @@ Class Program{
 	public void Main{
 		return 0;
 	}
+	public void Master{
+		return 0;
+	}
 }
 	print("See you later!");
